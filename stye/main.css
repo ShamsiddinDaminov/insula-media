@@ -1,0 +1,853 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contiener{
+   display: flex;
+    margin: 0 auto;
+    width: 1440px;
+    height: 880px;
+   background-color: #F0F0F0;;
+ 
+}
+.oyna-1{
+    left: 230px;
+    position: fixed;
+    display: flex;
+    background-color: white;
+    display: flex;
+    width: 1440px;
+    height: 56px;
+    /* border: 1px solid ; */
+    margin: 0 auto;
+}
+.logo{
+    display: flex;
+    width: 1000px;
+    height: 56px;
+    /* border: 1px solid darkcyan; */
+}
+.logo-1{
+    margin-top: 18px;
+    margin-left: 25px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left:90px;
+    text-decoration: none;
+}
+
+.mediolar{
+    display: flex;
+    width: 500px;
+    height: 56px;
+    /* border: 1px solid darkorchid; */
+}
+.Insula-media{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-left: 120px;
+    margin-top: 10px;
+    
+}
+.oyna-2{
+    width: 840px;
+    height: 880px;
+    /* border: 1px solid red; */
+ 
+}
+.oyna-3{
+   
+    width: 600px;
+    height: 880px;
+    /* border: 1px solid darkblue; */
+
+}
+.tatle{
+    margin-top: 268px;
+    margin-left: 120px;
+    width: 600px;
+    height: 200px;
+    /* border: 1px solid darkblue; */
+}
+.tatle-1{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.pele{
+    width: 600px;
+    height: 200px;
+    margin-left: 100px;
+}
+.tatle-2{
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 32px;
+    /* border: 1px solid; */
+}
+.imsula-media-img{
+    margin-top: 144px;
+    margin-left: 100px;
+    width: 436px;
+    height: 617px;
+    /* border: 1px solid black; */
+    
+}
+.oyna-6{
+    display: flex;
+    width: 550px;
+    height: 64px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.oyna-7{
+    width: 216px;
+    height: 64px;
+    /* border: 1px solid blue; */
+    background-color: red;
+}
+.oplel{ 
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.oyna-8{
+    margin-left: 40px;
+    width: 216px;
+    height: 64px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.ople{
+  
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+/* section-1 */
+.o-nos{
+    display: flex;
+    margin: 0 auto;
+    width: 1440px;
+    height: 595px;
+    
+    /* background-color:  rgba(22, 26, 43, 1); */
+    
+}
+
+.o-nos-1{
+    width: 720px;
+    height: 582px;
+    /* border: 1px solid gold; */
+    background-color:  rgba(22, 26, 43, 1);
+}
+.on-nos-2{
+    width: 720px;
+    height: 582px;
+    /* border: 1px solid black; */
+    background-image: url(/img/background__image.png);
+}
+
+.o-Nas{
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 5000;
+    margin: 120px;
+    margin-top: 80px;
+    color: white;
+}
+.Инсула-Медиа{
+    font-size: 18px ;
+    margin-left: 120px;
+    width: 450px;
+    height: 120px;
+    /* border: 1px solid ; */
+    color: white;
+}
+.lilop{
+    width: 450px;
+    height: 120px;
+    margin-left: 120px;
+    /* border: 1px solid ; */
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    color: white;
+    
+}
+.Info__card1__bg{
+    display: flex;
+    margin-left: 160px;
+    margin-top: 75px;
+    width: 500px;
+    height: 208px;
+    /* border: 1px solid red; */
+}
+.Info__card1__bg-1{
+    margin-left: 16px;
+    width: 208px;
+    height: 208px;
+    background-color:rgba(22, 26, 43, 1);
+   
+}
+.cjiziq{
+    width: 2px;
+    height: 104px;
+    background-color: red;
+
+    margin-left: 22px;
+}
+.span-cals{
+    margin-top: -30px;
+    font-size: 30px;
+    margin-left: 34px;
+    color: white;
+}
+.span-xlas{
+     font-size: 18px;
+     color: white;
+     margin-left: 34px;
+   
+   
+}
+.Yangiliklar-tahlilar{
+    margin: 0 auto;
+    width: 1440px;
+    height: 990px;
+    /* border: 1px solid red; */
+    background-color: rgba(240, 240, 240, 1);
+    
+}
+.quvat-oroli{
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400px;
+    width: 390px;
+    height: 54px;
+    /* margin-top: 80px; */
+    margin-left: 120px;
+    /* border: 1px solid darkblue; */
+}
+.Professional-auditoriya{
+    display: flex;
+    margin-top: 48px;
+    margin-left: 100px;
+    width: 1300px;
+    height: 340px;
+    /* border: 1px solid firebrick; */
+}
+.Professional-auditoriya-1{
+    background-color: white;
+    margin-left: 20px;
+    width: 576px;
+    height: 340px;
+    /* border: 1px solid chartreuse; */
+}
+.Rectangle{
+    width: 112px;
+    height: 112px;
+    /* border: 1px solid rebeccapurple; */
+    /* background-image: url(/img/1.png); */
+    background-color:  rgba(22, 26, 43, 1);
+    
+}
+.Rectangle img{
+    margin-top: 36px;
+    margin-left: 36px;
+    color: white;
+}
+.Yangiliklar{
+    font-weight: 700;
+    margin-left: 160px;
+    margin-top: -70px;
+    font-size: 24px;
+    line-height: 31.2px;
+}
+.Avlod{
+    font-size: 24px;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+.Mavzu{
+    display: flex;
+    margin-top: 48px;
+    margin-left: 100px;
+    width: 1300px;
+    height: 340px;
+    /* border: 1px solid firebrick; */
+}
+.monitoring{
+    font-size: 24px;
+    margin-left: 20px;
+    width: 576px;
+    height: 340px;
+    background-color: white;
+    /* border: 1px solid chartreuse; */
+}
+.qobiliyatlari{
+    display: flex;
+    width: 1300px;
+    height: 640px;
+    /* border: 1px solid darkblue; */
+    margin-top: 242px;
+    margin-left: 100px;
+}
+.Filter{
+    margin: 0 auto;
+    width: 1440px;
+    height: 993px;
+    /* border: 1px solid darkblue; */
+    background-image: url(/img/korxona.png);
+}
+.yangi-soy{
+    width: 300px;
+    height: 59px;
+
+ 
+}
+.yangi{
+    font-size: 34px;
+    margin-top: 100px; 
+    margin-left: 119px;
+}
+.Mask{
+    margin-top: -10px;
+    width: 600px;
+    height: 640px;
+    /* border: 1px solid red; */
+    background-color: rgba(240, 240, 240, 1);
+    
+}
+.analitika{
+    width: 360px;
+    height: 8px;
+    background-color: red;
+    margin-top: 260px;
+    margin-left: 215px;
+}
+.Mask-1{
+
+    width: 600px;
+    height: 40px;
+    /* border: 1px solid red; */
+    background-color: rgba(255, 255, 255, 0.814);
+}
+.norozi p{
+    width: 544px;
+    height: 49px;
+    /* margin-top: 32px; */
+    margin-left: 40px;
+    font-size: 18px;
+    font-weight: 400px;
+}
+.Elonlar{
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.Elonlar-1{
+    font-size: 18px;
+    margin-left: 350px;
+    margin-top: -19px;
+}
+.yetkazib-berildi{
+    width: 600px;
+    height: 640px;
+    /* border: 1px solid red; */
+    background-color: rgba(22, 26, 43, 1);
+    
+
+}
+.Oling{
+    font-size: 24px;
+    margin-left: 68px;
+    margin-top: 91px;
+    font-weight: 700;
+    color: white;
+}
+.EMAYIL{
+    margin-top: 60px;
+    margin-left: 68px;
+    /* border: 1px solid darkblue; */
+}
+input{
+    margin-top: 60px;
+    width:450px;
+    height:30px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.Input__name{
+    width: 376px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color: black;
+    margin: 0px 50px 40px 0;
+    background-color: rgba(22, 26, 43, 1);
+    font-size: 19PX;
+}
+.GALICHKA{
+    width: 16px;
+    height: 16px;
+    margin-top: 66px;
+ 
+}
+.action_page-php{
+    width: 300px;
+    height: 500px;
+    /* border: 10px solid saddlebrown; */
+}
+.iifeife{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin-left: 30px;
+    color: #F0F0F0;
+    margin-top: -20px;
+}
+.uchrashish{
+
+    width: 336px;
+    height: 56px;
+    /* border: 1px solid red; */
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.wf {
+    color: white;
+    margin-top: 20px;
+    margin-left: 90px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.Block5__background {
+    margin: 0 auto;
+    width: 1440px;
+    height: 436px;
+    background-color: rgba(22, 26, 43, 1);
+
+}
+.ishlavotdi-2{
+    width: 500px;
+    height: 50px;
+    /* margin-top: 80px; */
+        margin-left: 120px;
+}
+
+.ishlayaptimi{
+    color: white;
+
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.ishlayaptimi-1{
+
+    display: flex;
+    width: 1400px;
+    height: 200px;
+    /* border : 1px solid hotpink;  */
+    /* margin-left: 90px; */
+    margin-top: 48px;
+}
+.ishlayaptimi-5{
+    
+    width: 2px;
+    height: 180px;
+    background-color: red;
+    
+}
+.ishlayaptimi-title{
+    color: aliceblue;
+     font-size: 18px;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 700;
+     font-size: 24px;
+      margin-left: 20px;
+     margin-top: 20px;
+}
+.ishlayaptimi-3{
+
+    width: 400px;
+    height: 190px;
+    /* border: 1px solid rgb(0, 255, 13); */
+    margin-left: 120px;
+    
+}
+.ishlayaptimi-title-5{
+    color: white;
+    font-size: 10px;
+    margin-left: 22px;
+    margin-top: 20px    ;
+}
+.Biz-oqidik-1{
+    font-size: 34px;
+    margin-top: 80px;
+    margin-left: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    width: 300px;
+    height: 50px;
+    /* border: 1px solid darkblue; */
+}
+.Biz-oqidik{
+
+    margin: 0 auto;
+    width: 1440px;
+    height: 700px;
+    /* border: 1px solid darkblue; */
+}
+.Biz-oqidik-2{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 30px;
+    width: 1200px;
+    height: 161px;
+    /* border: 1px solid saddlebrown; */
+}
+.Silowyje_maschiny{
+    width: 216px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-1{
+    width: 88px;
+    height: 92px;
+    background-image: url(/img/Silowyje_maschiny\ 1.png);
+    background-repeat: no-repeat;
+    margin-top: 34px;
+    margin-left: 64px;
+}
+.Silowyje_maschiny-1{
+    width: 384px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-2{
+    width: 204px;
+    height: 78px;
+    background-image: url(/img/2-img.png);
+    margin-top: 41px;
+    margin-left: 91px;
+    background-repeat: no-repeat;
+}
+.Silowyje_maschiny-2{
+    width: 384px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-3{
+    width: 2004px;
+    height: 69px;
+    background-image: url(/img/3-img.png);
+    background-repeat: no-repeat;
+    margin-top: 41px;
+    margin-left: 91px;
+}
+.Silowyje_maschiny-3{
+    width: 216px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-4{
+    width: 110px;
+    height: 73px;
+    background-image: url(/img/4\ img.png);
+    background-repeat: no-repeat;
+    margin-top: 44px;
+    margin-left: 53px;
+}
+
+.UniPro{
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+    height: 161px;
+    /* border: 1px solid red; */
+}
+.Silowyje_maschiny-4{
+        width: 432px;
+        height: 161px;
+        /* border: 1px solid rebeccapurple; */
+}
+.divcha-5{
+    width: 205px;
+    height: 70px;
+    background-image: url(/img/5-img.png);
+    background-repeat: no-repeat;
+    margin-left: 114px;
+    margin-top: 45px;
+}
+.Silowyje_maschiny-5{
+    width: 336px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+    
+}
+.divcha-6{
+    width: 111px;
+    height: 111px;
+    background-image: url(/img/6.png);
+    margin-top: 25px;
+    margin-left: 112px;
+}
+.Silowyje_maschiny-6{
+    width: 432px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-7{
+    width: 2004px;
+    height: 65px;
+    background-image: url(/img/7.png);
+    margin-top: 48px;
+    margin-left: 114px;
+    background-repeat: no-repeat;
+}
+.Rectangle-2{
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+    height: 161px;
+    /* border: 1px solid red; */
+}
+.Silowyje_maschiny-7{
+    width: 216px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-8{
+    width: 89px;
+    height: 93px;
+    background-image: url(/img/8.png);
+    margin-left: 63px;
+    margin-top: 34px;
+}
+.Silowyje_maschiny-8{
+    width: 384px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-9{
+    width: 205px;
+    height: 161px;
+    background-image: url(/img/10.png);
+    background-repeat: no-repeat;
+    margin-left: 89px;
+    margin-top: 53px;
+}
+.Silowyje_maschiny-9{
+    width: 384px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-10{
+    width: 204px;
+    height: 56px;
+    background-image: url(/img/11.png);
+    margin-left: 90px;
+    margin-top: 53px;
+}
+.Silowyje_maschiny-10{
+    width: 216px;
+    height: 161px;
+    /* border: 1px solid rebeccapurple; */
+}
+.divcha-11{
+    width: 80px;
+    height: 80px;
+    margin-top: 41px;
+    margin-left: 70px;
+    background-image: url(/img/12.png);
+}
+.bizning-obunachilarimiz{
+    margin: 0 auto;
+    width: 1440px;
+    height: 832px;
+    /* border: 1px solid red; */
+    background-color: rgba(234, 234, 234, 0.67);
+}
+.titelok{
+    margin: 0;
+    padding: 80px 0 48px 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color:black;
+    margin-left: 120px;
+}
+.alono{
+    width: 802px;
+    height: 70px;
+    margin-left: 200px;
+    margin-top: 200px;
+    background-image: url(/img/Arrow__back\ \(Stroke\).svg) url(/img/Arrow__forward\ \(Stroke\).svg);
+    display: flex;
+    justify-content: space-between;
+}
+.alono img{
+    left: 50%;
+}
+.kantenit{
+    background-color: rgba(255, 255, 255, 1);
+    ;
+    margin-left: 310px;
+    margin-top: -250px;
+    width: 800px;
+    height: 489px;
+    /* border: 1px solid darkblue; */
+}
+.kanenit-1{
+    margin: 0 auto;
+    width: 800px;
+    height: 160px;
+    /* border: 1px solid red; */
+}
+.ciq{
+    margin-top: -4px;
+    width: 160px;
+    height: 6px;
+    background-color: red;
+}
+.chq-1{
+    font-size: 24px;
+    margin-left: 200px;
+    margin-top: -90px;
+}
+.chq-2{
+    font-size: 18px;
+    margin-left: 200px;
+    margin-top: 8px;
+}
+.kantint{
+    font-size: 24px;
+    width: 744px;
+    height: 206px;
+    /* border: 1px solid red; */
+    margin-left: 40px;
+    margin-top: 63px;
+}
+.cjiq{
+    width: 360px;
+    height: 8px;
+    background-color: red;
+    margin-top: 12px;
+    margin-left: 440px;
+}
+.logo-logtop{
+    margin-left: 670px;
+}
+.swer{
+    
+    margin-top: 50px;
+}
+.Block8__bg {
+    margin: 0 auto;
+    width: 1440px;
+    height: 382px;
+    /* border: 1px solid darkblue; */
+}
+.black8_bg-1{
+    display: flex;
+    width: 602px;
+    height: 36px;
+    /* border: 1px solid darkblue; */
+    margin-top: 88px;
+    margin-left: 119px;
+
+}
+.nikm{
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500px;
+}
+.gmail_1{
+    width: 1240px;
+    height: 70px;
+    /* border:  1px solid deeppink; */
+    margin-left: 121px;
+    margin-top: 88px;
+}
+.gmail-2{
+    border: 0px 50px 40px 0 black;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    padding-bottom: 10px;
+    margin-left: 119px;
+}
+.buton-gamil{
+    border: 2px solid red;
+    width: 216px;
+    height: 64px;
+    margin-left: 30px;
+    color: black;
+    background-color: white;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif0;
+    font-weight: 700;
+}
+.techsj{
+    width: 16px;
+    height: 16px;
+    margin-left: 121px;
+}
+.huf{
+    margin-left: 150px;
+    margin-top: -21px;
+     font-size: 14px;
+     font-weight: 400px;
+}
+.medioad-2{
+    margin: 0 auto;
+    width: 1440px;
+    height: 185px;
+    background-color: rgba(22, 26, 43, 1);
+}
+.jfwf img{
+    margin-left: 120px;
+    margin-top: 30px;
+    color: #ffffff;
+}
+.footer-logotop{
+    width: 1200px;
+    height: 50px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+
+}
+.telfon-1{
+    color: #ffffff;
+    /* margin-left: 30px; */
+    font-size: 18px;
+}
+.telfon-2{
+    color: #ffffff;
+    margin-left: 200px;
+    font-size: 18px;
+}
+.telfon-3{
+    color: #ffffff;
+    margin-left: 200px;
+    font-size: 18px;
+}
+
